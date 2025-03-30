@@ -1,0 +1,24 @@
+#Basic Libraries
+streamlit>=1.30.0
+pandas>=2.0.0
+numpy>=1.24.0
+plotly>=5.15.0
+python-dotenv>=1.0.0
+requests>=2.30.0
+matplotlib>=3.7.0
+
+#OpenAI API
+openai>=1.6.0
+
+#For Document Processing
+PyPDF2>=3.0.0
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
+
+#For the RAG System
+sentence-transformers>=2.2.0
+faiss-cpu>=1.7.0
+torch>=2.0.0
+
+#For Time Handling and Data Formatting
+pytz>=2023.0

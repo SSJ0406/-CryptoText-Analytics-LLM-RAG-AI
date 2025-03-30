@@ -1,0 +1,51 @@
+project_id,project_name,symbol,category,date,event_type,description,importance,potential_impact,source,actual_impact,price_change
+ethereum,Ethereum,ETH,Layer 1,2025-02-23,Protocol Update,Ethereum protocol update to version 2.4.1,medium,positive,CryptoText Analytics (Mock Data),neutral,-1.9069122570566965
+avalanche,Avalanche,AVAX,Layer 1,2025-02-23,Hard Fork,Avalanche network upgrade to improve scalability,high,neutral,CryptoText Analytics (Mock Data),positive,7.433298412302523
+uniswap,Uniswap,UNI,DEX,2025-02-23,Airdrop,Uniswap token airdrop to community members,medium,neutral,CryptoText Analytics (Mock Data),positive,4.3067140691363965
+polkadot,Polkadot,DOT,Interoperability,2025-02-24,Whitepaper Release,Polkadot whitepaper 2.0 release,medium,neutral,CryptoText Analytics (Mock Data),negative,-10.126682466191848
+ripple,Ripple,XRP,Payment,2025-02-24,Protocol Update,Ripple protocol update to version 2.0.3,medium,neutral,CryptoText Analytics (Mock Data),positive,12.102909907056679
+bitcoin,Bitcoin,BTC,Layer 1,2025-02-25,Whitepaper Release,Bitcoin whitepaper 2.0 release,medium,neutral,CryptoText Analytics (Mock Data),negative,-6.196811549021238
+bitcoin,Bitcoin,BTC,Layer 1,2025-02-26,Hard Fork,Bitcoin network upgrade to improve interoperability,high,positive,CryptoText Analytics (Mock Data),positive,10.176257008138492
+cardano,Cardano,ADA,Layer 1,2025-02-26,Halving,Cardano mining reward halving event,high,positive,CryptoText Analytics (Mock Data),positive,9.143875470208563
+avalanche,Avalanche,AVAX,Layer 1,2025-02-26,Whitepaper Release,Avalanche whitepaper 2.0 release,medium,neutral,CryptoText Analytics (Mock Data),neutral,0.15750979360025008
+ethereum,Ethereum,ETH,Layer 1,2025-02-26,Whitepaper Release,Ethereum whitepaper 2.0 release,medium,neutral,CryptoText Analytics (Mock Data),neutral,-0.2062179120867209
+dogecoin,Dogecoin,DOGE,Meme Coin,2025-02-27,Whitepaper Release,Dogecoin whitepaper 2.0 release,medium,neutral,CryptoText Analytics (Mock Data),neutral,-0.5991270131987458
+avalanche,Avalanche,AVAX,Layer 1,2025-02-27,AMA Session,Ask Me Anything session with Avalanche core team,low,negative,CryptoText Analytics (Mock Data),negative,-3.358198029549394
+ethereum,Ethereum,ETH,Layer 1,2025-02-27,Conference,Ethereum annual developer conference in Seoul,medium,neutral,CryptoText Analytics (Mock Data),positive,14.102078373934804
+ethereum,Ethereum,ETH,Layer 1,2025-03-01,Halving,Ethereum mining reward halving event,high,positive,CryptoText Analytics (Mock Data),neutral,-1.5875045246562696
+avalanche,Avalanche,AVAX,Layer 1,2025-03-01,Token Burn,Scheduled Avalanche token burn event,medium,negative,CryptoText Analytics (Mock Data),negative,-3.72641386378495
+solana,Solana,SOL,Layer 1,2025-03-02,Whitepaper Release,Solana whitepaper 2.0 release,medium,positive,CryptoText Analytics (Mock Data),neutral,-1.0051033822788482
+dogecoin,Dogecoin,DOGE,Meme Coin,2025-03-02,Hard Fork,Dogecoin network upgrade to improve smart contracts,high,positive,CryptoText Analytics (Mock Data),neutral,1.7889943095354348
+solana,Solana,SOL,Layer 1,2025-03-03,Conference,Solana annual developer conference in Dubai,medium,negative,CryptoText Analytics (Mock Data),negative,-4.709472431563968
+polkadot,Polkadot,DOT,Interoperability,2025-03-03,Airdrop,Polkadot token airdrop to community members,medium,positive,CryptoText Analytics (Mock Data),negative,-14.841991829032388
+uniswap,Uniswap,UNI,DEX,2025-03-04,Whitepaper Release,Uniswap whitepaper 2.0 release,medium,positive,CryptoText Analytics (Mock Data),positive,3.5278412081023633
+ethereum,Ethereum,ETH,Layer 1,2025-03-04,Mainnet Launch,Ethereum Mainnet launch after successful testnet phase,high,positive,CryptoText Analytics (Mock Data),positive,10.136178904285073
+avalanche,Avalanche,AVAX,Layer 1,2025-03-05,Conference,Avalanche annual developer conference in London,medium,neutral,CryptoText Analytics (Mock Data),positive,8.40412635578117
+bitcoin,Bitcoin,BTC,Layer 1,2025-03-05,Testnet Launch,Bitcoin Testnet launch for new features,medium,neutral,CryptoText Analytics (Mock Data),negative,-6.862784288679553
+uniswap,Uniswap,UNI,DEX,2025-03-05,AMA Session,Ask Me Anything session with Uniswap core team,low,neutral,CryptoText Analytics (Mock Data),neutral,1.4525540879560155
+uniswap,Uniswap,UNI,DEX,2025-03-05,Partnership,Uniswap announces strategic partnership,medium,positive,CryptoText Analytics (Mock Data),positive,6.151077288675394
+solana,Solana,SOL,Layer 1,2025-03-07,AMA Session,Ask Me Anything session with Solana core team,low,negative,CryptoText Analytics (Mock Data),positive,14.461039459481578
+bitcoin,Bitcoin,BTC,Layer 1,2025-03-07,Halving,Bitcoin mining reward halving event,high,positive,CryptoText Analytics (Mock Data),positive,8.45529547888001
+ripple,Ripple,XRP,Payment,2025-03-07,AMA Session,Ask Me Anything session with Ripple core team,low,neutral,CryptoText Analytics (Mock Data),positive,8.86881157686372
+ethereum,Ethereum,ETH,Layer 1,2025-03-10,Conference,Ethereum annual developer conference in Amsterdam,medium,positive,CryptoText Analytics (Mock Data),positive,8.272772345354351
+dogecoin,Dogecoin,DOGE,Meme Coin,2025-03-10,Hard Fork,Dogecoin network upgrade to improve governance,high,positive,CryptoText Analytics (Mock Data),positive,3.2277584898270693
+solana,Solana,SOL,Layer 1,2025-03-11,Protocol Update,Solana protocol update to version 3.2.3,medium,negative,CryptoText Analytics (Mock Data),neutral,-1.7177250103982806
+bitcoin,Bitcoin,BTC,Layer 1,2025-03-11,Partnership,Bitcoin announces strategic partnership,medium,neutral,CryptoText Analytics (Mock Data),neutral,0.28589210082004257
+uniswap,Uniswap,UNI,DEX,2025-03-12,Halving,Uniswap mining reward halving event,high,positive,CryptoText Analytics (Mock Data),positive,4.789658556208863
+ethereum,Ethereum,ETH,Layer 1,2025-03-13,Token Burn,Scheduled Ethereum token burn event,medium,negative,CryptoText Analytics (Mock Data),neutral,-1.4280332717886566
+bitcoin,Bitcoin,BTC,Layer 1,2025-03-14,Conference,Bitcoin annual developer conference in Dubai,medium,neutral,CryptoText Analytics (Mock Data),neutral,1.5675876351071065
+ethereum,Ethereum,ETH,Layer 1,2025-03-14,Token Burn,Scheduled Ethereum token burn event,medium,positive,CryptoText Analytics (Mock Data),negative,-3.4731549651253815
+solana,Solana,SOL,Layer 1,2025-03-14,Airdrop,Solana token airdrop to community members,medium,positive,CryptoText Analytics (Mock Data),neutral,1.4674748212433655
+uniswap,Uniswap,UNI,DEX,2025-03-15,AMA Session,Ask Me Anything session with Uniswap core team,low,neutral,CryptoText Analytics (Mock Data),neutral,0.3036983010323384
+ripple,Ripple,XRP,Payment,2025-03-15,Mainnet Launch,Ripple Mainnet launch after successful testnet phase,high,positive,CryptoText Analytics (Mock Data),neutral,0.724157708387636
+uniswap,Uniswap,UNI,DEX,2025-03-17,Protocol Update,Uniswap protocol update to version 1.6.3,medium,positive,CryptoText Analytics (Mock Data),positive,13.272515893726387
+dogecoin,Dogecoin,DOGE,Meme Coin,2025-03-18,Airdrop,Dogecoin token airdrop to community members,medium,positive,CryptoText Analytics (Mock Data),positive,11.11259870896856
+ethereum,Ethereum,ETH,Layer 1,2025-03-19,Mainnet Launch,Ethereum Mainnet launch after successful testnet phase,high,positive,CryptoText Analytics (Mock Data),neutral,0.18366308065995574
+dogecoin,Dogecoin,DOGE,Meme Coin,2025-03-19,Hard Fork,Dogecoin network upgrade to improve smart contracts,high,positive,CryptoText Analytics (Mock Data),positive,10.837982138703197
+ripple,Ripple,XRP,Payment,2025-03-21,Listing,Ripple listing on major exchange,medium,positive,CryptoText Analytics (Mock Data),positive,10.524394259949649
+avalanche,Avalanche,AVAX,Layer 1,2025-03-21,Hard Fork,Avalanche network upgrade to improve governance,high,positive,CryptoText Analytics (Mock Data),positive,6.836235115306181
+uniswap,Uniswap,UNI,DEX,2025-03-21,Halving,Uniswap mining reward halving event,high,positive,CryptoText Analytics (Mock Data),positive,7.957287576389716
+cardano,Cardano,ADA,Layer 1,2025-03-21,Token Burn,Scheduled Cardano token burn event,medium,neutral,CryptoText Analytics (Mock Data),neutral,0.214812209383203
+avalanche,Avalanche,AVAX,Layer 1,2025-03-22,Testnet Launch,Avalanche Testnet launch for new features,medium,positive,CryptoText Analytics (Mock Data),positive,8.448486905814281
+bitcoin,Bitcoin,BTC,Layer 1,2025-03-22,Hard Fork,Bitcoin network upgrade to improve consensus mechanism,high,positive,CryptoText Analytics (Mock Data),positive,3.102890283107495
+avalanche,Avalanche,AVAX,Layer 1,2025-03-23,Airdrop,Avalanche token airdrop to community members,medium,negative,CryptoText Analytics (Mock Data),negative,-3.2304416545711714
