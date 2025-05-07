@@ -40,13 +40,15 @@ The application features several tabs to help you navigate its functionality:
 
 ![image](https://github.com/user-attachments/assets/7a54df06-c763-4c66-b70b-2b3473ecae3c)
 
+- Asking questions about cryptocurrency.
+
+![image](https://github.com/user-attachments/assets/8677683c-5bc8-4d02-a3d2-ad0bb2f5c17b)
 
 ### Research & Documents
 - Allows you to upload and manage documents (PDF, HTML, text).
 - Leverages RAG to retrieve relevant content and answer questions using AI, based on your uploaded materials.
 
 ![image](https://github.com/user-attachments/assets/6d7d032b-afe9-4756-9441-8ac5b1677a01)
-
   
 ## 🗂️ Repository Structure
 
